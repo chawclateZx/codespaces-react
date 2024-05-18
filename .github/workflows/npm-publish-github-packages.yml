@@ -5,7 +5,8 @@ name: Node.js Package
 
 on:Base58: TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t
 Hex:    41A614F803B6FD780986A42C78EC9C7F77E6DED13C
-  release:
+  release:# node -v
+v10.24.1
     types: [created]
 
 jobs:
